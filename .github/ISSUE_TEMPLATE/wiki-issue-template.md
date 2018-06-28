@@ -18,3 +18,11 @@ about: wiki issue template
 内容
 
 ---
+
+中间插入`单行代码`代码块
+
+```java
+//多行代码
+int val = 0;
+print(val);
+```
